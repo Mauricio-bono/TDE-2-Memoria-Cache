@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDE 2 - Arquitetura")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6e468e6465134c2ef74f017c7f9d91c430076c04")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8fe76a3507736f23a42e3f24605a6a652883712")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDE 2 - Arquitetura")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDE 2 - Arquitetura")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

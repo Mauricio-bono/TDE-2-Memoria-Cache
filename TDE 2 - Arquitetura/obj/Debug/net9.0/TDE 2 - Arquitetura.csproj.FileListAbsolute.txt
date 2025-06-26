@@ -1,0 +1,28 @@
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\appsettings.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\TDE 2 - Arquitetura.staticwebassets.endpoints.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\TDE 2 - Arquitetura.exe
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\TDE 2 - Arquitetura.deps.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\TDE 2 - Arquitetura.runtimeconfig.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\TDE 2 - Arquitetura.dll
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\bin\Debug\net9.0\TDE 2 - Arquitetura.pdb
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.AssemblyInfoInputs.cache
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.AssemblyInfo.cs
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.csproj.CoreCompileInputs.cache
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.sourcelink.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\scopedcss\bundle\TDE 2 - Arquitetura.styles.css
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.dll
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\refint\TDE 2 - Arquitetura.dll
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.pdb
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\TDE 2 - Arquitetura.genruntimeconfig.cache
+C:\Users\mauri\Documents\TDE - Arquitetura\TDE 2 - Arquitetura\obj\Debug\net9.0\ref\TDE 2 - Arquitetura.dll
